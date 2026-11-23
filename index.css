@@ -175,10 +175,10 @@ h1, h2, h3 {
 }
 
 .card-info{
-    display: flexs;
+    display: flex;
     margin-top: 20px;
     padding-top: 16px;
-    border: 2px solid var(--concreto-escuro);
+    border-top: 2px solid var(--concreto-escuro);
     font-weight: 600;
     font-size: 15px;
     justify-content: space-between;
