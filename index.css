@@ -185,6 +185,18 @@ h1, h2, h3 {
 
 }
 
+.passos{
+    display: flex;
+    gap: 24px;
+}
+
+.passo{
+    border-top: 6px solid var(--tinta);
+    padding-top: 20px;
+    flex: 1;
+}
+
+
 
 
 
