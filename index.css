@@ -196,6 +196,41 @@ h1, h2, h3 {
     flex: 1;
 }
 
+.passo-numero{
+    font-family: var(--fonte-cartaz);
+    font-size: 96px;
+    font-weight: 900;
+    line-height: 1;
+    color: var(--caixa-dagua);
+}
+
+.passo h3{
+    font-size: 32px;
+    margin-block: 8px 12px;
+}
+
+.rodape{
+    margin-top: 120px;
+    background-color: var(--tinta);
+    color: var(--concreto);
+    padding-block: 56px;
+}
+
+.rodape-colunas{
+    display: flex;
+    gap: 40px;
+}
+
+.rodape-coluna{
+    flex: 1;
+}
+
+.rodape h4{
+    font-family: var(--fonte-cartaz);
+    font-size: 28px;
+    color: var(--fita);
+    margin-bottom: 12px;
+}
 
 
 
